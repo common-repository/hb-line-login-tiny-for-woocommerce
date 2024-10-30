@@ -1,0 +1,105 @@
+body {
+    background-color: #f0f0f1 !important;
+    min-width: 0;
+    color: #3c434a;
+
+    font-size: 13px;
+    line-height: 1.4;
+}
+#login{
+    height: 80px;
+    text-align: center;
+    margin: auto;
+}
+#login img{
+    display: inline-block;
+    height: 80px;
+
+
+}
+.HB-btn,
+#user_login_submit{
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 1rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    width: 100%;
+
+}
+.HB-btn-primary,
+#user_login_submit{
+    color: #fff;
+    background-color: #43454b;
+    border-color: #0d6efd;
+}
+
+
+.email-already-exists{
+    color: red;
+}
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.wrap .container{
+    padding: 26px 25px 35px;
+    font-weight: 400;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 4%);
+    margin-left: 8px;
+    margin-right: 8px;
+
+
+}
+
+
+.wrap .container input[type=email],
+.wrap .container input[type=tel]
+{
+    font-size: 24px;
+    line-height: 1.33333333;
+    width: 100%;
+    border-width: 0.0625rem;
+    padding: 0.1875rem 0.3125rem;
+    margin: 0 6px 16px 0;
+    min-height: 40px;
+    max-height: none;
+
+    border-radius: 4px;
+    border: 1px solid #8c8f94;
+    background-color: #fff;
+    color: #2c3338;
+}
+.wrap .container input[type=text]:focus {
+    border-color: #2271b1;
+    box-shadow: 0 0 0 1px #2271b1;
+    outline: 2px solid transparent;
+}
+
+.user_login_phone_num{
+    color: #3b3b3b;
+    font-size: 15px;
+    margin-top: -10px;
+    margin-bottom: 8px;
+    float: right;
+    margin-right: 3px;
+}
+
+

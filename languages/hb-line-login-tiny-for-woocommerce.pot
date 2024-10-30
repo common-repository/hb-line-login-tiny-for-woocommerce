@@ -1,0 +1,88 @@
+# Copyright (C) 2022 heiblack
+# This file is distributed under the GPL 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Line Login Tiny For Woocommerce 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hb-line-login-tiny-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-16T19:50:58+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hb-line-login-tiny-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "HB Line Login Tiny For Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://piglet.me/hb-line-login-tiny-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "A HB Hide Shipping Tiny For Woocommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "heiblack"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://piglet.me"
+msgstr ""
+
+#: hb-line-login-tiny-for-woocommerce.php:99
+msgid "Enter Your Email - "
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:14
+msgid "Email Already Exists"
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:19
+msgid "Email"
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:25
+msgid "Phone number "
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:38
+msgid "Register"
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:43
+#: page/HB-LineRegisterPage.php:45
+msgid "Can not be empty"
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:44
+msgid "This is not a legitimate email"
+msgstr ""
+
+#: page/HB-LineRegisterPage.php:46
+msgid "This is not a legitimate phone"
+msgstr ""
+
+#: page/HB-Settings.php:5
+msgid "HB Line Login"
+msgstr ""
+
+#: page/HB-Settings.php:10
+msgid "General"
+msgstr ""
+
+#: page/HB-Settings.php:18
+msgid "Important! You are not open for registration."
+msgstr ""
+
+#: page/HB-Settings.php:20
+msgid "Have Bug or suggest"
+msgstr ""
+
+#: page/HB-Settings.php:37
+msgid "Setting"
+msgstr ""
